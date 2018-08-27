@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="常用jar包">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../第二学年/tools/package/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../第二学年/tools/package/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../第二学年/tools/package/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../第二学年/tools/package/sitemesh-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

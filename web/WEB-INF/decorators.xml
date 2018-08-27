@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<decorators defaultdir="/layout/">
+    <!-- 先定义不过滤的页面 -->
+    <excludes>
+        <pattern>/assets/*</pattern>
+    </excludes>
+
+    <!-- 定义需要修饰的页面 -->
+    <decorator name="cp" page="cp_principal.jsp">
+        <pattern>/cp/*</pattern>
+    </decorator>
+    <decorator name="cp" page="cp_principal.jsp">
+        <pattern>/cp/*</pattern>
+    </decorator>
+
+</decorators>
