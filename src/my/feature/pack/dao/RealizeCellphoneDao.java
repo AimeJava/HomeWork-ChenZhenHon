@@ -93,6 +93,7 @@ public class RealizeCellphoneDao implements CellphoneDao {
             if (cp.getName().toLowerCase().contains(names)) {
               Db.add(cp);
             }
+
         }
         return Db;
     }

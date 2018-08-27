@@ -12,7 +12,7 @@
 <%@include file="cp_navigation.jsp" %>
 
 <!--数据 -->
-<div>
+<div style="margin-top:2%">
     <%@include file="cp_centre.jsp" %>
 </div>
 
